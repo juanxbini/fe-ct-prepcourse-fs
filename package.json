@@ -12,6 +12,7 @@
    "dependencies": {
       "jest": "^29.7.0"
    },
+   "type": "module",
    "devDependencies": {},
    "description": ""
 }
